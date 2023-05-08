@@ -1,0 +1,5 @@
+name: "Hello World"
+description: "Practice javascript action"
+runs:
+  using: "node12"
+  main: "index.js"
